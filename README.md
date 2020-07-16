@@ -13,3 +13,5 @@ Flutter package to render a [Material Design Speed Dial](https://material.io/des
 ## Usage
 
 checkout [Example code](https://github.com/khalithartmann/awesome_speed_dial/tree/master/example)
+
+
