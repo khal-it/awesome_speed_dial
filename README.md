@@ -1,4 +1,15 @@
 # awesome_speed_dial
 
 
-<iframe src="https://giphy.com/embed/ZDtE3UNgNXFOh7Gs9z" width="230" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZDtE3UNgNXFOh7Gs9z">via GIPHY</a></p>
+![Flutter Speed Dial](https://media.giphy.com/media/ZDtE3UNgNXFOh7Gs9z/giphy.gif)
+
+
+# Flutter Speed Dial - MAINTAINERS WANTED
+
+Flutter package to render a [Material Design Speed Dial](https://material.io/design/components/buttons-floating-action-button.html#types-of-transitions).
+
+![Flutter Speed Dial](https://media.giphy.com/media/ef4BpmetvvH9BdQC9t/giphy.gif)
+
+## Usage
+
+checkout [Example code](https://github.com/khalithartmann/awesome_speed_dial/tree/master/example)
