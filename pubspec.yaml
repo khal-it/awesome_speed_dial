@@ -1,8 +1,8 @@
 name: awesome_speed_dial
 description: A new Flutter package project.
 version: 0.0.1
-author: khalithartmann@gmail.com
 homepage: https://github.com/khalithartmann
+email: khalithartmann@gmail.com
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

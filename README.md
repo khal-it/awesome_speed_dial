@@ -1,14 +1,4 @@
 # awesome_speed_dial
 
-A new Flutter package project.
 
-## Getting Started
-
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<<iframe src="https://giphy.com/embed/ZDtE3UNgNXFOh7Gs9z" width="230" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZDtE3UNgNXFOh7Gs9z">via GIPHY</a></p>
